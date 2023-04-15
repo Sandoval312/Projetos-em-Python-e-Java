@@ -1,6 +1,6 @@
 nome=("noboru")
 sobrenome=("asato")
-idade=(200)
+idade=(26)
 ano_nascimento= (2023-idade)
 maior_de_idade= (idade>=18)
 altura_metros= (1.76)
